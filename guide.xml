@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Unified FAST Guide">
+
+  <!-- NEWS -->
+  <channel id="pluto-news">
+    <display-name>Pluto News</display-name>
+    <icon src="https://example.com/logos/pluto-news.png" />
+  </channel>
+
+  <channel id="xumo-news">
+    <display-name>Xumo News</display-name>
+    <icon src="https://example.com/logos/xumo-news.png" />
+  </channel>
+
+  <channel id="roku-news">
+    <display-name>Roku News</display-name>
+    <icon src="https://example.com/logos/roku-news.png" />
+  </channel>
+
+
+  <!-- MOVIES -->
+  <channel id="pluto-movies">
+    <display-name>Pluto Movies</display-name>
+    <icon src="https://example.com/logos/pluto-movies.png" />
+  </channel>
+
+  <channel id="tubi-movies">
+    <display-name>Tubi Movies</display-name>
+    <icon src="https://example.com/logos/tubi-movies.png" />
+  </channel>
+
+  <channel id="roku-action">
+    <display-name>Roku Action</display-name>
+    <icon src="https://example.com/logos/roku-action.png" />
+  </channel>
+
+
+  <!-- SAMPLE PROGRAMMING (replace with real EPG data) -->
+  <programme start="20240101060000 +0000" stop="20240101070000 +0000" channel="pluto-news">
+    <title>Sample Program</title>
+    <desc>Replace this with real EPG data.</desc>
+    <category>News</category>
+  </programme>
+
+  <programme start="20240101070000 +0000" stop="20240101080000 +0000" channel="pluto-news">
+    <title>Sample Program 2</title>
+    <desc>Replace this with real EPG data.</desc>
+    <category>News</category>
+  </programme>
+
+</tv>
