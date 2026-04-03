@@ -1,1 +1,71 @@
 
+#EXTM3U x-tvg-url="https://sherry9531.github.io/live-tv/guide.xml"
+
+########## NEWS ##########
+#EXTINF:-1 tvg-id="pluto-news" tvg-name="Pluto News" group-title="News" tvg-logo="https://example.com/logos/pluto-news.png",Pluto News
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="xumo-news" tvg-name="Xumo News" group-title="News" tvg-logo="https://example.com/logos/xumo-news.png",Xumo News
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="roku-news" tvg-name="Roku News" group-title="News" tvg-logo="https://example.com/logos/roku-news.png",Roku News
+https://REPLACE_WITH_STREAM_URL
+
+
+########## MOVIES ##########
+#EXTINF:-1 tvg-id="pluto-movies" tvg-name="Pluto Movies" group-title="Movies" tvg-logo="https://example.com/logos/pluto-movies.png",Pluto Movies
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="tubi-movies" tvg-name="Tubi Movies" group-title="Movies" tvg-logo="https://example.com/logos/tubi-movies.png",Tubi Movies
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="roku-action" tvg-name="Roku Action" group-title="Movies" tvg-logo="https://example.com/logos/roku-action.png",Roku Action
+https://REPLACE_WITH_STREAM_URL
+
+
+########## CRIME ##########
+#EXTINF:-1 tvg-id="pluto-crime" tvg-name="Pluto Crime" group-title="Crime" tvg-logo="https://example.com/logos/pluto-crime.png",Pluto Crime
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="xumo-crime" tvg-name="Xumo Crime" group-title="Crime" tvg-logo="https://example.com/logos/xumo-crime.png",Xumo Crime
+https://REPLACE_WITH_STREAM_URL
+
+
+########## CLASSIC TV ##########
+#EXTINF:-1 tvg-id="pluto-classic-tv" tvg-name="Pluto Classic TV" group-title="Classic TV" tvg-logo="https://example.com/logos/pluto-classic-tv.png",Pluto Classic TV
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="roku-classic" tvg-name="Roku Classic TV" group-title="Classic TV" tvg-logo="https://example.com/logos/roku-classic.png",Roku Classic TV
+https://REPLACE_WITH_STREAM_URL
+
+
+########## COMEDY ##########
+#EXTINF:-1 tvg-id="pluto-comedy" tvg-name="Pluto Comedy" group-title="Comedy" tvg-logo="https://example.com/logos/pluto-comedy.png",Pluto Comedy
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="xumo-comedy" tvg-name="Xumo Comedy" group-title="Comedy" tvg-logo="https://example.com/logos/xumo-comedy.png",Xumo Comedy
+https://REPLACE_WITH_STREAM_URL
+
+
+########## SPORTS ##########
+#EXTINF:-1 tvg-id="pluto-sports" tvg-name="Pluto Sports" group-title="Sports" tvg-logo="https://example.com/logos/pluto-sports.png",Pluto Sports
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="sling-sports" tvg-name="Sling Sports" group-title="Sports" tvg-logo="https://example.com/logos/sling-sports.png",Sling Sports
+https://REPLACE_WITH_STREAM_URL
+
+
+########## KIDS ##########
+#EXTINF:-1 tvg-id="pluto-kids" tvg-name="Pluto Kids" group-title="Kids" tvg-logo="https://example.com/logos/pluto-kids.png",Pluto Kids
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="tubi-kids" tvg-name="Tubi Kids" group-title="Kids" tvg-logo="https://example.com/logos/tubi-kids.png",Tubi Kids
+https://REPLACE_WITH_STREAM_URL
+
+
+########## LIFESTYLE ##########
+#EXTINF:-1 tvg-id="xumo-lifestyle" tvg-name="Xumo Lifestyle" group-title="Lifestyle" tvg-logo="https://example.com/logos/xumo-lifestyle.png",Xumo Lifestyle
+https://REPLACE_WITH_STREAM_URL
+
+#EXTINF:-1 tvg-id="roku-lifestyle" tvg-name="Roku Lifestyle" group-title="Lifestyle" tvg-logo="https://example.com/logos/roku-lifestyle.png",Roku Lifestyle
+https://REPLACE_WITH_STREAM_URL
